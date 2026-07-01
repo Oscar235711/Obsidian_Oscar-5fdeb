@@ -1,0 +1,35 @@
+{
+  "/": [
+    "concepts",
+    "entities",
+    "meta-ads",
+    "skills",
+    "home",
+    "index目录",
+    "log",
+    "SCHEMA"
+  ],
+  "/concepts": [
+    "场景营销10步模型"
+  ],
+  "/entities": [
+    "lighting-2026年照明产品策略",
+    "sealight-场景页文案",
+    "sealight-场景营销专题页",
+    "sealight-品牌概览",
+    "sealight-三合一场景页",
+    "sealight-html原型"
+  ],
+  "/meta-ads": [
+    "plan"
+  ],
+  "/skills": [
+    "照明周报全品类分析",
+    "claude-ads-付费广告审计技能",
+    "HTML代码审查可视化",
+    "Meta Ads 学习笔记",
+    "Meta Ads 执行计划",
+    "sealight-copy-audit",
+    "sealight-image-prompts"
+  ]
+}

@@ -14,7 +14,7 @@
 - 更新页面时，务必更新 `updated` 日期
 - 每个新页面必须添加到 `index.md` 对应分类下
 - 每次操作必须追加到 `log.md`
-- **来源标记：** 综合 3+ 来源的页面，在对应段落末尾追加 `^[raw/articles/源文件名.md]`
+- **来源标记：** 综合 3+ 来源的页面，在对应段落末尾追加 `^[素材库/articles/源文件名.md]`
 
 ## Frontmatter
 ```yaml
@@ -24,7 +24,7 @@ created: YYYY-MM-DD
 updated: YYYY-MM-DD
 type: entity | concept | comparison | query | summary
 tags: [从下方标签分类中选取]
-sources: [raw/articles/源文件名.md]
+sources: [素材库/articles/源文件名.md]
 # 可选质量标记：
 confidence: high | medium | low
 contested: true
@@ -32,7 +32,7 @@ contradictions: [冲突页面名]
 ---
 ```
 
-### raw/ Frontmatter
+### 素材库/ Frontmatter
 ```yaml
 ---
 source_url: https://example.com/article

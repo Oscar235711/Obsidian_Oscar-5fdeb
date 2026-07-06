@@ -36,9 +36,9 @@
 
 ## 关联
 
-- [[entities/sealight-品牌概览\|sealight-品牌概览]]
+- [[项目档案/sealight-品牌概览\|sealight-品牌概览]]
 - [[skills/sealight-image-prompts\|sealight-image-prompts]] — 提示词合规约束来源
-- [[entities/sealight-场景营销专题页\|sealight-场景营销专题页]]
+- [[项目档案/sealight-场景营销专题页\|sealight-场景营销专题页]]
 
 ## 参考
 

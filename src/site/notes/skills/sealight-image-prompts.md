@@ -25,9 +25,9 @@
 
 ## 关联
 
-- [[entities/sealight-品牌概览\|sealight-品牌概览]]
+- [[项目档案/sealight-品牌概览\|sealight-品牌概览]]
 - [[skills/sealight-copy-audit\|sealight-copy-audit]] — 合规约束（IIHS/DOT/logo 红线）
-- [[entities/sealight-场景营销专题页\|sealight-场景营销专题页]]
+- [[项目档案/sealight-场景营销专题页\|sealight-场景营销专题页]]
 
 ## 参考
 

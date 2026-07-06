@@ -2,30 +2,51 @@
 {"dg-publish":true,"permalink":"/index目录/","dg-note-properties":{}}
 ---
 
-# Wiki Index
 
-> 内容目录。每个 wiki 页面按类型列出，附一句话摘要。
-> 查询前先读此文件定位相关页面。
-> 最后更新：2026-06-29 | 总页数：10
+# 笔记索引
 
-## Entities
+> 内容目录。按类型列出所有笔记，附一句话摘要。
+> 最后更新：2026-07-06
 
-- [[entities/sealight-品牌概览\|sealight-品牌概览]] — Sealight 品牌基本信息：产品线、团队、竞品（产品线信息待截图解析后补全）
-- [[entities/sealight-场景营销专题页\|sealight-场景营销专题页]] — 北美场景化专题页项目全记录：6 阶段从策略到上线
-- [[entities/sealight-html原型\|sealight-html原型]] — [历史记录] HTML 原型开发与 Vercel 部署详情
-- [[entities/sealight-三合一场景页\|sealight-三合一场景页]] — [历史记录] 三合一场景页重构过程
-- [[entities/sealight-场景页文案\|sealight-场景页文案]] — [历史记录] 场景页文案阶段记录
+---
 
-## Concepts
+## 📋 述职相关
 
-- [[concepts/场景营销10步模型\|场景营销10步模型]] — 场景营销 10 步认知模型：可复用的专题页设计方法论
+- [[转正述职-运营阶段总览\|运营阶段述职总览]] — 试用期到现在的工作全景，KPI + 时间线 + 能力成长
+- [[运营阶段工作完成情况表\|工作完成情况表]] — 按月详细记录：做了什么、产出什么、学到了什么
+
+## 项目档案
+
+- [[项目档案/sealight-品牌概览\|品牌概览]] — Sealight 品牌基本信息：产品线、团队、竞品
+- [[项目档案/sealight-场景营销专题页\|场景营销专题页]] — 北美场景化专题页项目全记录
+- [[项目档案/sealight-html原型\|HTML 原型]] — [历史] 原型开发与 Vercel 部署
+- [[项目档案/sealight-三合一场景页\|三合一场景页]] — [历史] 重构过程
+- [[项目档案/sealight-场景页文案\|场景页文案]] — [历史] 文案定稿阶段
+- [[项目档案/场景页搭建\|场景页搭建]] — 运营阶段完整记录：竞品调研 → 原型 → 文案 → 上线
+- [[项目档案/培训记录\|培训记录]] — 10 次培训汇总
+- [[项目档案/项目成果\|项目成果]] — 10 份项目输出
+- [[项目档案/Easter-EDM策划\|Easter EDM]] — 双层邮件策略
+- [[项目档案/Roadtrip媒体激励活动\|Roadtrip 活动]] — KOL 产品激励活动
+
+## 方法论
+
+- [[方法论/场景营销10步模型\|场景营销 10 步模型]] — 可复用的专题页设计方法论
+- [[方法论/周报工作流\|周报工作流]] — 从手工到半自动化的周报体系
 
 ## Skills
 
-- [[skills/sealight-image-prompts\|skills/sealight-image-prompts]] — GPT Image 2 提示词生成：素材需求规格 + 英文提示词
-- [[skills/sealight-copy-audit\|skills/sealight-copy-audit]] — 英文文案合规审计：四层审计 + HTML 报告
-- [[skills/sealight-weekly-category-report\|skills/sealight-weekly-category-report]] — 周报全流程：P&L 数据 → xlsx + HTML
+- [[skills/sealight-image-prompts\|素材提示词生成]]
+- [[skills/sealight-copy-audit\|文案合规审计]]
+- [[skills/照明周报全品类分析\|周报全品类分析]]
+- [[skills/claude-ads-付费广告审计技能\|Claude Ads 广告审计]]
+- [[skills/HTML代码审查可视化\|HTML 代码审查]]
+- [[skills/Meta Ads 学习笔记\|Meta Ads 学习笔记]]
+- [[skills/Meta Ads 执行计划\|Meta Ads 执行计划]]
 
-## Comparisons
+## Meta Ads
 
-## Queries
+- [[meta-ads/plan\|培训首课计划]]
+
+## 竞品对比
+
+## 数据查询

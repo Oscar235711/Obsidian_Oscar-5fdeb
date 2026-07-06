@@ -7,6 +7,10 @@
 
 > 为 Sealight 北美 DTC 站建设场景化营销专题页，将用户调研中的抽象人群分类转化为具象场景页面，驱动转化。
 
+![素材库/images/sealight-scenario-night-road.png](/img/user/%E7%B4%A0%E6%9D%90%E5%BA%93/images/sealight-scenario-night-road.png)
+
+*把 Night Driving、Storm Weather、Refresh Your Ride 三类需求合成一个场景视觉。*
+
 ## 一、项目背景
 
 Sealight 是汽车 LED 照明品牌，北美市场通过独立站（sealight-led.com）进行 DTC 销售。

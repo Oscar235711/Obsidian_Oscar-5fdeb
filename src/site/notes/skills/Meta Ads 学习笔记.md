@@ -8,6 +8,10 @@
 > 广告账号：Sealight | 像素事件 148.4万/28天
 > 当前状态：草稿 — 新销量广告系列 | 广告分数 82 分
 
+![素材库/images/meta-ads-control-room.png](/img/user/%E7%B4%A0%E6%9D%90%E5%BA%93/images/meta-ads-control-room.png)
+
+*Catalog、受众、素材和表现数据汇聚到同一张投放工作台。*
+
 ---
 
 ## 第一课：进阶赋能型目录广告（Advantage+ Catalog Ads）

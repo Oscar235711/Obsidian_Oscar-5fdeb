@@ -7,6 +7,10 @@
 
 > 跨境电商新人 · 负责某品牌车灯的海外数字营销 · 这里是我的公开笔记本
 
+![素材库/images/home-ai-marketing-workbench.png](/img/user/%E7%B4%A0%E6%9D%90%E5%BA%93/images/home-ai-marketing-workbench.png)
+
+*AI 工具链、车灯产品和运营数据的工作台视觉。*
+
 ---
 
 ## 关于我

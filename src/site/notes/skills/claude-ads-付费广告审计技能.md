@@ -5,7 +5,7 @@
 
 # Claude Ads：付费广告审计技能
 
-Claude Ads 是专为 Claude Code 设计的综合付费广告审计与优化 Skill，由 [[AgriciDaniel\|AgriciDaniel]] 开发。一次完整的多平台广告审计从人工 4-6 小时缩短到 **10-15 分钟**，输出 0-100 加权评分和优先级行动方案。
+Claude Ads 是专为 Claude Code 设计的综合付费广告审计与优化 Skill，由 [AgriciDaniel](https://github.com/AgriciDaniel) 开发。一次完整的多平台广告审计从人工 4-6 小时缩短到 **10-15 分钟**，输出 0-100 加权评分和优先级行动方案。
 
 ## 核心能力
 
@@ -72,7 +72,7 @@ v1.7.0 版本新增 **41 个 pytest 测试**，CI 在每次提交时运行：
 > 当前版本专为 **Claude Code** 设计，但也标注了 Codex CLI、Cursor、Windsurf、Gemini CLI、Goose 等实验性支持。其在 Hermes 上的可行性待验证。
 
 核心架构模式与 Hermes 有共通之处：
-- **子代理并行派发**：`/ads audit` 同时启动 6 个子代理，类似 Hermes 的 [[delegate_task\|delegate_task]] 并行任务
+- **子代理并行派发**：`/ads audit` 同时启动 6 个子代理，类似 Hermes 的 `delegate_task` 并行任务
 - **Skill 路由**：Orchestrator → Sub-skills 的分发模式，与 Hermes 的 Skill 体系类似
 - **RAG 参考数据**：26 个内置参考文件按需加载
 - **本地运行**：所有分析在本地完成，数据不离开本机
@@ -108,7 +108,7 @@ irm https://raw.githubusercontent.com/AI-Marketing-Hub/claude-ads/main/install.p
 - 公开仓库：https://github.com/AgriciDaniel/claude-ads
 - 主页：https://claude-ads.md
 - 作者博客：https://agricidaniel.com/blog
-- 相关项目：[[Claude SEO\|Claude SEO]]（同作者）
+- 相关项目：Claude SEO（同作者）
 
 ## 评分体系
 

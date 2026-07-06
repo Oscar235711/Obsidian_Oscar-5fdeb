@@ -7,7 +7,7 @@
 
 > 来源：照明产品组内部策略文档（2026-03-13）
 > 品类：大灯、雾灯、小灯、HID灯
-> 品牌：[[SEALIGHT\|SEALIGHT]] / [[Torchbeam\|Torchbeam]] / [[Marsauto\|Marsauto]] / [[ZonCar\|ZonCar]]
+> 品牌：[[项目档案/sealight-品牌概览\|SEALIGHT]] / Torchbeam / Marsauto / ZonCar
 
 ---
 

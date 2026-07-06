@@ -10,7 +10,7 @@
 ## Conventions
 - 文件名：小写、连字符、无空格（如 `project-alpha-plan.md`）
 - 每个 wiki 页面以 YAML frontmatter 开头（见下方格式）
-- 使用 `[[wikilinks\|wikilinks]]` 进行页面间链接（每页至少 2 个出链）
+- 使用 `[[wikilinks]]` 进行页面间链接（每页至少 2 个出链）
 - 更新页面时，务必更新 `updated` 日期
 - 每个新页面必须添加到 `index.md` 对应分类下
 - 每次操作必须追加到 `log.md`
@@ -87,7 +87,7 @@ sha256: <hex digest>
 每页一个实体（项目、工具、团队等）。包含：
 - 概述
 - 关键事实和日期
-- 与其它实体的关系（[[wikilinks\|wikilinks]]）
+- 与其它实体的关系（`[[wikilinks]]`）
 - 来源引用
 
 ## Concept Pages
@@ -95,7 +95,7 @@ sha256: <hex digest>
 - 定义/说明
 - 当前认知状态
 - 待解决问题或争议
-- 相关概念（[[wikilinks\|wikilinks]]）
+- 相关概念（`[[wikilinks]]`）
 
 ## Comparison Pages
 并排分析。包含：
